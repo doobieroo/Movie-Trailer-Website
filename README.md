@@ -13,7 +13,7 @@ In order to get a copy of the project up and running on your local machine for d
 Download [Movie-Trailer-Website](https://github.com/doobieroo/Movie-Trailer-Website).
 
 ## Unit Testing
-To test this code, run entertainment.center.py from an IDLE session. A browser window should pop up with the static web page of favorite movies.
+To test this code, run entertainment_center.py from an IDLE session. A browser window should pop up with the static web page of favorite movies.
 
 To change any of the movies or their attributes, edit entertainment_center.py and change an instance of the class Movie to whatever you like. Remember to also change the name of the movie in the movie list.
 
