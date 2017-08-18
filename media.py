@@ -14,6 +14,6 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
     '''Using the library webbrowser - open a new window and play the YouTube
-        trailer.'''
+    trailer.'''
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
